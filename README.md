@@ -22,3 +22,7 @@ O objetivo desse desafio é utilizar uma [API](https://github.com/digitalinnovat
 3. Tendo os dados de cada um dos clientes será usada a API do ChatGPT (OpenAI) para a geração de mensagens de marketing personalizada para cada cliente, enfantizando a importancia dos investimentos.
 
 4. Assim que essas mensagens estiverem prontas as mesmas serão amarzenadas na API na lista "news" de cada usuário usando a endpoint `PUT https://sdw-2023-prd.up.railway.app/users/{id}`.
+
+## ❗Observação
+
+Esse reposítorio foi feito com base nas aulas preparatorias para o desafio, portanto boa parte do conteudo foi elaborado durante a aula do professor [Venilton Falvo Jr](https://www.linkedin.com/in/falvojr/).
